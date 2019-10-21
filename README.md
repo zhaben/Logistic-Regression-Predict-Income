@@ -1,4 +1,4 @@
-Note: Sometimes Jupyter Notebook files do not render on Github, paste the link nbviewer if you cannot open the .ipynb file.
+Note: Sometimes Jupyter Notebook files do not render on Github, paste the link in nbviewer if you cannot open the .ipynb file.
 https://nbviewer.jupyter.org/
 
 ------
